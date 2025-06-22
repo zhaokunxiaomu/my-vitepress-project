@@ -41,7 +41,7 @@ layout: page
 
 3. 配置说明模板：
 
-````markdown:/Applications/D盘/联众/Web项目文档编辑_beta/vitepress-project/src/configuration.md
+````markdown:/Applications/D盘/联众/Web项目文档编辑_beta/vitepress-project/src/document-formatting.md
 # 配置选项
 
 ## 基础配置
