@@ -21,7 +21,7 @@ export default defineConfig({
   // 配置网站的描述 是SEO要用的，我们不用关注
   description: 'docs文档系统可查看组件文档',
   // 配置网站的头部信息
-  head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  head: [['link', { rel: 'icon', href: './logo.png' }]],
   // 配置网站的markdown
   markdown: {
     lineNumbers: true,
